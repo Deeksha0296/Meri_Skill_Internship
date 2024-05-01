@@ -1,4 +1,4 @@
-# Meri_Skill-BI-Dashboards (1)
+# Meri_Skill_Sales_Data 
 
 Project : Sales Data Dashboard
 
