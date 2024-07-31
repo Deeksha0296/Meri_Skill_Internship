@@ -6,4 +6,4 @@ Virtual Learning Internship
   1) Sales Data
   2) HR Analytics
 
- - TOOL : SQL & Power BI for data cleaning, extracting, query for measures, and data visualization.
+ - TOOLs : SQL & Power BI for data cleaning, extracting, query for measures, and data visualization.
